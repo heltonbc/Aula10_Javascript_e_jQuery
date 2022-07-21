@@ -1,8 +1,10 @@
-# Aula10_Javascript_e_jQuery
+# About This
+##This project was made using JavaScript and Jquery, the goal was to use and understand the basic concepts. A button was created that when in focus state changes its position randomly. All notes from this class are also included in this document.
+
+<img src="https://github.com/heltonbc/Aula10_Javascript_e_jQuery/blob/main/src/Untitled.png"/>
 
 
-
-
+# Anotações da Aula
 Aula 10 – Javascript e jQuery
 npm init
 parametrizar o npm e suas dependências podendo instalar alguns pacotes
@@ -52,7 +54,7 @@ modificando propriedades de .CSS dentro do script.js
 
 const body = document.querySelector('body');
 body.innerHTML = `
-<h1>Hello Javascript!</h1>
+## Hello Javascript!
 `;
 
 body.style.backgroundColor = '#000';
